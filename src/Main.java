@@ -40,7 +40,7 @@ public class Main {
             System.out.println("Kaldı");
 
         }
-
+    int a=5;
         ekrandanal.close();
 
 
